@@ -1,0 +1,23 @@
+[
+  {
+    "cedula": "503450789",
+    "nombre": "María",
+    "apellidos": "Rodríguez Solano",
+    "email": "maria.rodriguez@correo.com",
+    "fecha_ingreso": "2026-02-10"
+  },
+  {
+    "cedula": "204120456",
+    "nombre": "José",
+    "apellidos": "Vargas Mora",
+    "email": "jose.vargas@correo.com",
+    "fecha_ingreso": "2026-03-22"
+  },
+  {
+    "cedula": "302980123",
+    "nombre": "Daniela",
+    "apellidos": "Castro Jiménez",
+    "email": "daniela.castro@correo.com",
+    "fecha_ingreso": "2026-06-05"
+  }
+]

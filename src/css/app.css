@@ -1,3 +1,8 @@
+.nombre-voluntario {
+  margin: 0 0 4px;
+  font-size: 22px;
+}
+
 .texto-secundario {
   color: var(--f7-text-color-secondary, #6b7280);
   font-size: 14px;
