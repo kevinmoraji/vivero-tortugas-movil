@@ -1,0 +1,18 @@
+{
+  "type": [
+    "web",
+    "pwa"
+  ],
+  "name": "Vivero Tortugas",
+  "framework": "react",
+  "template": "single-view",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#0f766e",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
