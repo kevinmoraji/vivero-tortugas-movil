@@ -3,14 +3,14 @@ export const usuariosDePrueba = [
     nombreUsuario: 'coordinador',
     contrasena: 'vivero123',
     token: 'token-prueba-coordinador',
-    nombreCompleto: 'Ana Coordinadora',
+    nombreCompleto: 'Kevin Coordinador',   
     roles: ['Coordinador'],
   },
   {
     nombreUsuario: 'consulta',
     contrasena: 'vivero123',
     token: 'token-prueba-consulta',
-    nombreCompleto: 'Luis Consulta',
+    nombreCompleto: 'Kevin Consulta',      
     roles: ['Consulta'],
   },
 ];
